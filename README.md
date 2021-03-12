@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted in the file below.
 
-[Images/Cloud_Security_Network_Diagram](./blob/main/Images/Cloud_Security_Network_Diagram.pdf)
+[Images/Cloud_Security_Network_Diagram](./Images/Cloud_Security_Network_Diagram.pdf)
 
 These files have been tested and used to create a load balanced instance of DVWA and to generate a live ELK deployment on Azure to monitor the associated servers. They can be used to either recreate the entire deployment or alternatively, used selectively to install only certain pieces of it, such as Filebeat.
 
